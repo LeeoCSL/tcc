@@ -1,0 +1,56 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "nome": "supernatural",
+      "descricao": "Há 20 anos, Sam e Dean Winchester perderam sua mãe em um trágico e misterioso acidente, no qual as forças sobrenaturais — muito obscuras — estiveram envolvidas. Por esta razão, seu pai decidiu ensiná-los a lidar com a vida sobrenatural, ensinando-lhes técnicas de defesa contra as forças do mal; chegando até a ensinar a maneira ideal para matar os diferentes tipos de demônios. Agora, os irmãos Winchester percorrem os Estados Unidos em seu velho Chevy travando uma verdadeira batalha contra a obscuridade e a maldade. Objetos amaldiçoados, vampiros, bruxas e entidades maléficas — incluindo um Papai Noel não tão bonzinho — são só alguns dos desafios que estes dois irmãos têm de superar.",
+      "rate": "5"
+    },
+    {
+      "id": 2,
+      "nome": "House",
+      "descricao": "House é uma série de investigação, em que o vilão é a doença e o herói é um médico polêmico, irreverente e anti-social que não confia em ninguém, muito menos em seus pacientes. Dr. House formou uma excelente equipe de três médicos, escolhendo apenas os melhores (de acordo com seus critérios pessoais e duvidosos) para diagnosticar doenças em casos misteriosos e já desacreditados.  Somente pacientes em estado crítico são examinados por esse time, sempre disposto a descobrir a causa dos males para salvar vidas, seja através das vias legais ou fazendo uso de métodos pouco tradicionais. House tem um bom amigo, confidente e especialista em oncologia, o Dr. James Wilson (Robert Sean Leonard).  Além disso, há uma química inconstante entre House e a Dra. Lisa Cuddy (Lisa Edelstein), a Reitora de Medicina e administradora do hospital; os dois estão sempre em conflito sobre os deveres do médico e seu comportamento nada convencional. Mas, ainda assim, ela é forçada a admitir que o seu brilhantismo vale todo o trabalho que House causa.",
+      "rate": "5"
+    },
+      {
+      "id": 3,
+      "nome": "Sons Of Anarchy",
+      "descricao": "Charming é uma comunidade vigiada por um clube de motociclistas renegados, que protegem a cidade de recém-chegados. Jackson \"Jax\" Teller é um membro da irmandade, que tem sua lealdade ao grupo posta à prova ao testemunhar sua crescente fama e desprezo pelas leis, ao mesmo tempo em que tenta se ajustar à vida de pai. Mas sua tranquilidade é frequentemente perturbada por sua mãe e seu padrasto, dois indivíduos impiedosos que comandam a irmandade.",
+      "rate": "5"
+    },
+      {
+      "id": 4,
+      "nome": "Lost",
+      "descricao": "Os fãs da série finalmente irão desvendar todos os segredos que ficaram no ar, com a chegada a última temporada de Lost.\\n \\nA história se inicia quando o vôo 815 da Oceanic Airlines, vindo de Sydney (Austrália) com destino a Los Angeles (Califórnia, EUA), cai em uma ilha no Oceano Pacífico. Nele viajavam passageiros dos Estados Unidos, Grã-Bretanha, Austrália, Iraque e Coréia do Sul. Este grupo de sobreviventes deve trabalhar em conjunto para manterem-se vivos. Sobreviver significa resolver os diversos mistérios da ilha: um monstro de fumaça, ursos polares, um homem misterioso chamado Jacob e um grupo que eles chamam de \"os outros\".\\n \\nOs sobreviventes encontraram sinais de que outras pessoas povoaram a ilha antes deles, como um bote do século XIX chamado Rocha Negra, uma aeronave com drogas, restos de uma estátua antiga e bunkers pertencentes a um grupo de investigadores chamado \"Iniciativa Dharma\". Também houve um barco ancorado perto da ilha que alguns pensaram ser sua salvação, mas que acabou sendo o contrário. Nada é o que parece, o mistério e o perigo estão em todos os cantos...\\n \\nO ator Matthew Fox, que interpreta Jack, assegura que os criadores de Lost, Damon Lindelof e Carlton Cuse, sabiam o percurso que a história iria tomar e que o final da série foi muito bem pensado de acordo com o que ambicionavam desde o começo. \"Será um final satisfatório, libertador e bonito\", segundo o próprio ator.\\n \\nFox ainda dá pistas de como a última temporada vai se desenrolar. \"A sexta temporada começa com uma investigação sobre o que aconteceu logo que Juliet (Elizabeth Mitchell) aparentemente detonou a bomba de hidrogênio. Inicialmente, será muito surpreendente e confuso para a audiência\", diz o ator. \"Neste ano permaneceremos em um período de tempo determinado e será algo muito mais linear, pois não haverá mais flashbacks. Tudo ocorrerá na ilha com um único conflito até o final\", completa Fox.",
+      "rate": "5"
+    },
+      {
+      "id": 5,
+      "nome": "How I Met Your Mother",
+      "descricao": "A comédia enfoca a busca de Ted para encontrar o amor de sua vida. Tudo começa quando seu melhor amigo, Marshall, anuncia seu noivado com a namorada Lily, uma professora do jardim da infância. Neste instante, Ted se dá conta de que precisa fazer alguma coisa para não terminar sozinho. Para ajudá-lo em sua busca está Barney, um amigo com opiniões infindáveis e sugestões muitas vezes imprudentes. Quando Ted conhece Robin, ele acredita ser amor à primeira vista. Porém, ele não sabe que o destino lhe reservou algo a mais. A história é narrada no futuro, a partir das lembranças do protagonista.",
+      "rate": "5"
+    },
+      {
+      "id": 6,
+      "nome": "Prison Break",
+      "descricao": "A comédia enfoca a busca de Ted para encontrar o amor de sua vida. Tudo começa quando seu melhor amigo, Marshall, anuncia seu noivado com a namorada Lily, uma professora do jardim da infância. Neste instante, Ted se dá conta de que precisa fazer alguma coisa para não terminar sozinho. Para ajudá-lo em sua busca está Barney, um amigo com opiniões infindáveis e sugestões muitas vezes imprudentes. Quando Ted conhece Robin, ele acredita ser amor à primeira vista. Porém, ele não sabe que o destino lhe reservou algo a mais. A história é narrada no futuro, a partir das lembranças do protagonista.",
+      "rate": "2"
+    },
+  ],
+    "usuarios": [
+        {
+            "id_usuario" : 1,
+            "series_vistas": "1#2#3#4#5"
+        },
+        {
+            "id_usuario" : 2,
+            "series_vistas": "6"
+        },
+        {
+            "id_usuario" : 2,
+            "series_vistas": "1#2#3#4#5#6"
+        },
+        
+        
+    ]
+}
